@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Lương Nguyễn Khoa
+    tagline: Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: lnkaa0004@gmail.com
     phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    website: lnkhoa1205.github.io #do not add http://
+    linkedin: lnkhoa
+    github: lnkhoa1205
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@kaa'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,32 +32,35 @@ sidebar:
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: China
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Du lịch
         link:
 
-      - item: Snowboarding
+      - item: Thể thao
         link:
 
-      - item: Cooking
+      - item: Nghe nhạc
         link:
 
 career-profile:
-    title: Career Profile
+    title: TÓM TẮT
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Tên tôi là Lương Nguyễn Khoa. Tôi 20 tuổi, được sinh ra và lớn lên ở An Giang,
+      tính tình thân thiện, hòa đồng, gần rủi và luôn nhiệt tình trong công việc.
+      Tôi khá đam mê về công nghệ và thích học hỏi những điều mới mẻ.
+      Tôi tìm tới CNTT lúc đầu là để theo đuổi đam mê, nhưng khi tôi bất đầu học đại học 
+      lúc đó tôi bất đầu tìm hiểu rất nhiều về nóvà nó trờ thành một phần trong cuộc sống hằng ngày của tôi.
+      Tôi mong muốn trở thành một thành viên của công ty với tư cách là một web developer 
+      với mong muốn tạo ra các sản phẩm phần mềm web đẹp mắt và hữu dụng với nhu cầu của khách hàng, 
+      năng cao kiến thức công việc, ngoài ra tôi còn mong muốn được làm trong một môi trường chuyên nghiệp,
+      đồng nghiệp hòa đồng và thân thiện, và có nhiều cơ hội để phát triển bản thân.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Cử nhân công nghệ thông tin
+      university: An Giang
+      time: 2018 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
